@@ -8,13 +8,13 @@ Initial template developed with:
 - Passport.js (access validation)
 - Bcrypt.js (password encryptation)
 
-Incluye:
+# Incluye:
 - Registro y logueo de usuarios
 - Pagina principal
 - Mensajes entre vistas (wrong password, user not valid, etc)
 - En criptacion de contraseña
 
-No incluye:
+# No incluye:
 - CRUD
 - Olvido su contraseña
 
