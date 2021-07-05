@@ -7,6 +7,7 @@ Initial template developed with:
 - EJS (view engine)
 - Passport.js (access validation)
 - Bcrypt.js (password encryptation)
+- Bootstrap
 
 # Incluye:
 - Registro y logueo de usuarios
@@ -19,4 +20,5 @@ Initial template developed with:
 - Olvido su contraseña
 
 # Screenshots
-![preview](https://user-images.githubusercontent.com/60112394/124510813-03ede300-ddab-11eb-8dea-04792197ae96.png)
+![preview](https://user-images.githubusercontent.com/60112394/124512189-2c2b1100-ddae-11eb-834a-e3448be98233.png)
+
